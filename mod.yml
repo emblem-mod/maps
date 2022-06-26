@@ -35,7 +35,7 @@ assets:
   method: binarc
   source:
   - name: m_70
-    type: areadatascript
-    method: areadatascript
+    type: areadataspawn
+    method: spawnpoint
     source:
     - name: ard/al06_m_70.spawn # Chest Locations
