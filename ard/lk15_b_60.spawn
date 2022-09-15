@@ -9,12 +9,12 @@
   Unk20: 0
   Unk24: 0
   Entities:
-  - ObjectId: 566
-    PositionX: 8.682373046875
-    PositionY: -354.74798583984375
-    PositionZ: 4900.76123046875
+  - ObjectId: 650 # Lion Sora
+    PositionX: 0
+    PositionY: 0
+    PositionZ: -20000
     RotationX: 0
-    RotationY: 0.17453292012214661
+    RotationY: -3.14
     RotationZ: 0
     SpawnType: 0
     SpawnArgument: 0
@@ -27,12 +27,12 @@
     SpawnRange: 0
     Level: 0
     Medal: 0
-  - ObjectId: 567
-    PositionX: 89.798347473144531
-    PositionY: -353.82940673828125
-    PositionZ: 5016.60595703125
+  - ObjectId: 97 # Simba
+    PositionX: 100
+    PositionY: 0
+    PositionZ: -20100
     RotationX: 0
-    RotationY: 0.17453292012214661
+    RotationY: -3.14
     RotationZ: 0
     SpawnType: 0
     SpawnArgument: 0
@@ -45,30 +45,12 @@
     SpawnRange: 0
     Level: 0
     Medal: 0
-  - ObjectId: 568
-    PositionX: -107.16320037841797
-    PositionY: -352.18548583984375
-    PositionZ: 4981.8759765625
+  - ObjectId: 1113 # Groundshaker
+    PositionX: 0
+    PositionY: 0
+    PositionZ: -15000
     RotationX: 0
-    RotationY: 0.17453292012214661
-    RotationZ: 0
-    SpawnType: 0
-    SpawnArgument: 0
-    Serial: 6
-    Argument1: 0
-    Argument2: 0
-    ReactionCommand: 0
-    SpawnDelay: 0
-    Command: 0
-    SpawnRange: 0
-    Level: 0
-    Medal: 0
-  - ObjectId: 1113
-    PositionX: 1224.219970703125
-    PositionY: 143.35600280761719
-    PositionZ: -1992.89501953125
-    RotationX: 0
-    RotationY: -2.9670596122741699
+    RotationY: 0
     RotationZ: 0
     SpawnType: 0
     SpawnArgument: 0
