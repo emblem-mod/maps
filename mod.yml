@@ -14,7 +14,7 @@ assets:
     type: areadataspawn
     method: spawnpoint
     source:
-    - name: ard/mu00_m_70.spawn # Chest Locations
+    - name: ard/mu00_m_70.spawn # Edited Chest Locations
 
 # Encampment
 - name: ard/mu01.ard
@@ -38,9 +38,9 @@ assets:
     type: areadataspawn
     method: spawnpoint
     source:
-    - name: ard/al06_m_70.spawn # Chest Locations
+    - name: ard/al06_m_70.spawn # Edited Chest Locations
 
-# Palae Gates
+# Palace Gates
 - name: ard/eh19.ard
   multi:
   - name: ard/us/eh19.ard
@@ -51,3 +51,8 @@ assets:
     method: spawnpoint
     source:
     - name: ard/eh19_b_40.spawn # Xemnas
+    
+- name: obj/B_LK120.mdlx
+  method: copy
+  source:
+  - name: obj/B_LK120.mdlx # SP Groundshaker
