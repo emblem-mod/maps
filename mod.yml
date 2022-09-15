@@ -28,7 +28,7 @@ assets:
     source:
     - name: ard/mu01_map.script # Add Hidden Chests
 
-# Palae Gates
+# Palace Gates
 - name: ard/al06.ard
   multi:
   - name: ard/us/al06.ard
@@ -40,7 +40,6 @@ assets:
     source:
     - name: ard/al06_m_70.spawn # Edited Chest Locations
 
-# Palace Gates
 - name: ard/eh19.ard
   multi:
   - name: ard/us/eh19.ard
@@ -50,9 +49,21 @@ assets:
     type: areadataspawn
     method: spawnpoint
     source:
-    - name: ard/eh19_b_40.spawn # Xemnas
+    - name: ard/eh19_b_40.spawn # Xemnas Something
     
 - name: obj/B_LK120.mdlx
   method: copy
   source:
   - name: obj/B_LK120.mdlx # SP Groundshaker
+  
+  
+- name: ard/tr02.ard
+  multi:
+  - name: ard/us/tr02.ard
+  method: binarc
+  source:
+  - name: b_60
+    type: areadataspawn
+    method: spawnpoint
+    source:
+    - name: ard/lk15_b_60.spawn # Groundshaker
