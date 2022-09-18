@@ -67,9 +67,9 @@ assets:
     source:
     - name: ard/lk15_b_60.spawn # Groundshaker
 
-- name: ard/hb20.ard
+- name: ard/eh21.ard
   multi:
-  - name: ard/us/hb20.ard
+  - name: ard/us/eh21.ard
   method: binarc
   source:
   - name: b_40
