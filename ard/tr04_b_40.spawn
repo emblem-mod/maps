@@ -10,9 +10,9 @@
   Unk24: 0
   Entities:
   - ObjectId: 566
-    PositionX: -700
-    PositionY: 800
-    PositionZ: -2725
+    PositionX: 0
+    PositionY: 0
+    PositionZ: -500
     RotationX: 0
     RotationY: 0
     RotationZ: 0
@@ -27,46 +27,10 @@
     SpawnRange: 0
     Level: 0
     Medal: 0
-  - ObjectId: 567 # Party Member 1
-    PositionX: -700
-    PositionY: 800
-    PositionZ: -2875
-    RotationX: 0
-    RotationY: 0
-    RotationZ: 0
-    SpawnType: 0
-    SpawnArgument: 0
-    Serial: 15
-    Argument1: 0
-    Argument2: 0
-    ReactionCommand: 0
-    SpawnDelay: 0
-    Command: 0
-    SpawnRange: 0
-    Level: 0
-    Medal: 0
-  - ObjectId: 568 # Party Member 2
-    PositionX: -550
-    PositionY: 800
-    PositionZ: -2750
-    RotationX: 0
-    RotationY: 0
-    RotationZ: 0
-    SpawnType: 0
-    SpawnArgument: 0
-    Serial: 16
-    Argument1: 0
-    Argument2: 0
-    ReactionCommand: 0
-    SpawnDelay: 0
-    Command: 0
-    SpawnRange: 0
-    Level: 0
-    Medal: 0
   - ObjectId: 1208
-    PositionX: -1300
-    PositionY: 800
-    PositionZ: -2150
+    PositionX: 0
+    PositionY: 0
+    PositionZ: 1000
     RotationX: 0
     RotationY: 0
     RotationZ: 0
@@ -82,9 +46,9 @@
     Level: 0
     Medal: 0
   - ObjectId: 1867
-    PositionX: -1300
-    PositionY: 800
-    PositionZ: -2150
+    PositionX: 0
+    PositionY: 0
+    PositionZ: 0
     RotationX: 0
     RotationY: 0
     RotationZ: 0
