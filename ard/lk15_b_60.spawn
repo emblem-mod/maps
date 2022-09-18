@@ -14,7 +14,7 @@
     PositionY: 0
     PositionZ: -25000
     RotationX: 0
-    RotationY: -3.14
+    RotationY: -3.1415927410125732
     RotationZ: 0
     SpawnType: 0
     SpawnArgument: 0
@@ -32,7 +32,7 @@
     PositionY: 0
     PositionZ: -25100
     RotationX: 0
-    RotationY: -3.14
+    RotationY: -3.1415927410125732
     RotationZ: 0
     SpawnType: 0
     SpawnArgument: 0
@@ -80,7 +80,7 @@
   Entities:
   - ObjectId: 16 # Devastator
     PositionX: 0
-    PositionY: 0
+    PositionY: -10000
     PositionZ: -34000
     RotationX: 0
     RotationY: 0
@@ -98,7 +98,7 @@
     Medal: 0
   - ObjectId: 16 # Devastator
     PositionX: -10000
-    PositionY: 0
+    PositionY: -10000
     PositionZ: -24000
     RotationX: 0
     RotationY: 0
@@ -116,7 +116,7 @@
     Medal: 0
   - ObjectId: 16 # Devastator
     PositionX: 10000
-    PositionY: 0
+    PositionY: -10000
     PositionZ: -24000
     RotationX: 0
     RotationY: 0
