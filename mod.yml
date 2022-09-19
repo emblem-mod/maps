@@ -70,7 +70,7 @@ assets:
     type: areadataspawn
     method: spawnpoint
     source:
-    - name: ard/lk15_b_60.spawn # Groundshaker
+    - name: ard/groundshaker_b_60.spawn # Groundshaker
 
 - name: ard/eh21.ard
   multi:
