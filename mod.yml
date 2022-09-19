@@ -39,6 +39,11 @@ assets:
     method: spawnpoint
     source:
     - name: ard/al06_m_70.spawn # Edited Chest Locations
+  - name: m_700
+    type: areadataspawn
+    method: spawnpoint
+    source:
+    - name: ard/al06_m_00.spawn # Sora Spawn Test to prepare for Map Modding
 
 - name: ard/eh19.ard
   multi:
