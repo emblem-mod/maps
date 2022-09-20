@@ -96,7 +96,7 @@
   Unk20: 4259840
   Unk24: 0
   Entities:
-  - ObjectId: 318 # Dusk
+  - ObjectId: 121 # Magnum Loader
     PositionX: 750
     PositionY: -900
     PositionZ: 1000
@@ -114,7 +114,7 @@
     SpawnRange: 0
     Level: 0
     Medal: 0
-  - ObjectId: 318 # Dusk
+  - ObjectId: 121 # Magnum Loader
     PositionX: 750
     PositionY: -900
     PositionZ: 1200
@@ -132,7 +132,7 @@
     SpawnRange: 0
     Level: 0
     Medal: 0
-  - ObjectId: 318 # Dusk
+  - ObjectId: 121 # Magnum Loader
     PositionX: 750
     PositionY: -900
     PositionZ: 800
@@ -150,7 +150,7 @@
     SpawnRange: 0
     Level: 0
     Medal: 0
-  - ObjectId: 318 # Dusk
+  - ObjectId: 121 # Magnum Loader
     PositionX: -800
     PositionY: -900
     PositionZ: 1150
@@ -168,7 +168,7 @@
     SpawnRange: 0
     Level: 0
     Medal: 0
-  - ObjectId: 318 # Dusk
+  - ObjectId: 121 # Magnum Loader
     PositionX: -800
     PositionY: -900
     PositionZ: 850
@@ -327,7 +327,7 @@
     SpawnRange: 0
     Level: 1
     Medal: 0
-  - ObjectId: 318 # Dusk
+  - ObjectId: 121 # Magnum Loader
     PositionX: -575
     PositionY: -900
     PositionZ: 1175
@@ -420,7 +420,7 @@
   Unk20: 0
   Unk24: 0
   Entities:
-  - ObjectId: 317
+  - ObjectId: 1847 # Surveillance Robot
     PositionX: 25
     PositionY: -1200
     PositionZ: 1050
@@ -438,7 +438,7 @@
     SpawnRange: 0
     Level: 0
     Medal: 0
-  - ObjectId: 317
+  - ObjectId: 1847 # Surveillance Robot
     PositionX: 75
     PositionY: -1200
     PositionZ: 1200
@@ -456,7 +456,7 @@
     SpawnRange: 0
     Level: 0
     Medal: 0
-  - ObjectId: 317
+  - ObjectId: 1847 # Surveillance Robot
     PositionX: 75
     PositionY: -1200
     PositionZ: 900
@@ -474,7 +474,7 @@
     SpawnRange: 0
     Level: 0
     Medal: 0
-  - ObjectId: 317
+  - ObjectId: 1847 # Surveillance Robot
     PositionX: 125
     PositionY: -1200
     PositionZ: 1400
@@ -492,7 +492,7 @@
     SpawnRange: 0
     Level: 0
     Medal: 0
-  - ObjectId: 317
+  - ObjectId: 1847 # Surveillance Robot
     PositionX: 125
     PositionY: -1200
     PositionZ: 750
@@ -510,7 +510,7 @@
     SpawnRange: 0
     Level: 0
     Medal: 0
-  - ObjectId: 318 # Dusk
+  - ObjectId: 1114 # Strafer
     PositionX: -450
     PositionY: -900
     PositionZ: 1175
@@ -528,7 +528,7 @@
     SpawnRange: 0
     Level: 1
     Medal: 0
-  - ObjectId: 318 # Dusk
+  - ObjectId: 1114 # Strafer
     PositionX: -450
     PositionY: -900
     PositionZ: 875
@@ -546,7 +546,7 @@
     SpawnRange: 0
     Level: 1
     Medal: 0
-  - ObjectId: 318 # Dusk
+  - ObjectId: 1114 # Strafer
     PositionX: -400
     PositionY: -900
     PositionZ: 1375
@@ -564,7 +564,7 @@
     SpawnRange: 0
     Level: 1
     Medal: 0
-  - ObjectId: 318 # Dusk
+  - ObjectId: 1114 # Strafer
     PositionX: -400
     PositionY: -900
     PositionZ: 1025
@@ -582,7 +582,7 @@
     SpawnRange: 0
     Level: 1
     Medal: 0
-  - ObjectId: 318 # Dusk
+  - ObjectId: 1114 # Strafer
     PositionX: -400
     PositionY: -900
     PositionZ: 725
