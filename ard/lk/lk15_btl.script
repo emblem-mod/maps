@@ -1,4 +1,5 @@
 Program 0x3B
 Party W_FRIEND_ONLY
-Mission 0x11B "EH15_MS104"
+Mission 0x11B "EH23_MS113"
 Spawn "b_60"
+Spawn "b_99"
