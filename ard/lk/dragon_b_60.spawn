@@ -47,7 +47,7 @@
     Medal: 0
   - ObjectId: 1895 # Dragon Xemnas
     PositionX: 0
-    PositionY: -11750
+    PositionY: -1750
     PositionZ: 38000
     RotationX: 0
     RotationY: 0
@@ -65,7 +65,7 @@
     Medal: 0
   - ObjectId: 2140 # Armoured Xemnas II
     PositionX: 0
-    PositionY: -22500
+    PositionY: -12500
     PositionZ: 8500
     RotationX: 0
     RotationY: 0
