@@ -193,17 +193,20 @@
     SpawnRange: 0
     Level: 0
     Medal: 0
-    
-    
-    
-    
+
+
+
+
+
+
+
   - ObjectId: 2114 # Saix's Claymore
     PositionX: 0
-    PositionY: -22300
+    PositionY: -23000
     PositionZ: -2100
     RotationX: 0
     RotationY: 3.1415927410125732
-    RotationZ: 0
+    RotationZ: 3.1415927410125732
     SpawnType: 0
     SpawnArgument: 0
     Serial: 70
@@ -221,7 +224,7 @@
     PositionZ: -1500
     RotationX: 0
     RotationY: 2.3561944902000000
-    RotationZ: 0
+    RotationZ: 3.1415927410125732
     SpawnType: 0
     SpawnArgument: 0
     Serial: 71
@@ -239,7 +242,7 @@
     PositionZ: 0
     RotationX: 0
     RotationY: 1.5707963705062866
-    RotationZ: 0
+    RotationZ: 3.1415927410125732
     SpawnType: 0
     SpawnArgument: 0
     Serial: 72
@@ -257,7 +260,7 @@
     PositionZ: 1500
     RotationX: 0
     RotationY: 0.7853981634000000
-    RotationZ: 0
+    RotationZ: 3.1415927410125732
     SpawnType: 0
     SpawnArgument: 0
     Serial: 73
@@ -275,7 +278,7 @@
     PositionZ: 2100
     RotationX: 0
     RotationY: 0
-    RotationZ: 0
+    RotationZ: 3.1415927410125732
     SpawnType: 0
     SpawnArgument: 0
     Serial: 74
@@ -293,7 +296,7 @@
     PositionZ: 1500
     RotationX: 0
     RotationY: -0.7853981634000000
-    RotationZ: 0
+    RotationZ: 3.1415927410125732
     SpawnType: 0
     SpawnArgument: 0
     Serial: 75
@@ -311,7 +314,7 @@
     PositionZ: 0
     RotationX: 0
     RotationY: -1.5707963705062866
-    RotationZ: 0
+    RotationZ: 3.1415927410125732
     SpawnType: 0
     SpawnArgument: 0
     Serial: 76
@@ -329,7 +332,7 @@
     PositionZ: -1500
     RotationX: 0
     RotationY: -2.3561944902000000
-    RotationZ: 0
+    RotationZ: 3.1415927410125732
     SpawnType: 0
     SpawnArgument: 0
     Serial: 77
