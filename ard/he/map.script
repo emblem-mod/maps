@@ -1,5 +1,5 @@
 Program 0x00
-MapVisibility 0x000000f8 0x00000000
+MapVisibility 0x00000000 0x00000000
 Spawn "m_00"
 Spawn "m_10"
 Spawn "m_20"
@@ -28,7 +28,7 @@ Spawn "m_80"
 Spawn "m_81"
 
 Program 0x8E
-MapVisibility 0x00000003 0x20000000
+MapVisibility 0x000000dd 0x20000000
 Spawn "m_00"
 Spawn "m_10"
 Spawn "m_20"
@@ -36,7 +36,7 @@ Spawn "m_80"
 Spawn "m_81"
 
 Program 0x8F
-MapVisibility 0x000000f8 0x40000000
+MapVisibility 0x000000ff 0x40000000
 Spawn "m_00"
 Spawn "m_10"
 Spawn "m_20"
