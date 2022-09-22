@@ -1,5 +1,4 @@
 Program 0x35
-AllocEnemy 1992294
 Party DEFAULT
 Mission 0x68 "AL05_MS203"
 Spawn "b_40"
