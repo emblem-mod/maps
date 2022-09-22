@@ -127,7 +127,7 @@ assets:
     type: areadataspawn
     method: spawnpoint
     source:
-    - name: ard/lk/dragon_b_60.spawn # Armoured Xemnas II
+    - name: ard/lk/lk15_b_60.spawn # Armored Xemnas II
   - name: btl
     type: areadatascript
     method: areadatascript
