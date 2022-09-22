@@ -163,11 +163,6 @@ assets:
     method: spawnpoint
     source:
     - name: ard/eh/jafar_b_40.spawn # Genie Jafar
-  - name: btl
-    type: areadatascript
-    method: areadatascript
-    source:
-    - name: ard/wi/wi03_btl.script #  -> AL05_MS203 (Genie Jafar)
 
 - name: ard/wi03.ard
   multi:
@@ -183,7 +178,7 @@ assets:
     type: areadatascript
     method: areadatascript
     source:
-    - name: ard/wi/wi03_btl.script #  -> AL05_MS203 (Genie Jafar)
+    - name: ard/wi/wi03_btl.script # WI03_MS104 -> AL05_MS203 (Genie Jafar)
 
 
 
