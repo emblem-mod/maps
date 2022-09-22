@@ -1,5 +1,5 @@
 Program 0x00
-MapVisibility 0x00000023 0x40000000
+MapVisibility 0x00000200 0x40000000
 Spawn "m_00"
 Spawn "m_10"
 Spawn "m_11"
