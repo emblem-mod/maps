@@ -152,7 +152,7 @@ assets:
   - name: obj/B_LK120.mdlx # SP Groundshaker
 
 
-# Genie Jafar EH Havoc's Divide
+# Genie Jafar EH Havoc's Divide and Timeless River
 - name: ard/eh14.ard
   multi:
   - name: ard/us/eh14.ard
@@ -163,8 +163,27 @@ assets:
     method: spawnpoint
     source:
     - name: ard/eh/jafar_b_40.spawn # Genie Jafar
+  - name: btl
+    type: areadatascript
+    method: areadatascript
+    source:
+    - name: ard/wi/wi03_btl.script #  -> AL05_MS203 (Genie Jafar)
 
-
+- name: ard/wi03.ard
+  multi:
+  - name: ard/us/wi03.ard
+  method: binarc
+  source:
+  - name: b_40
+    type: areadataspawn
+    method: spawnpoint
+    source:
+    - name: ard/wi/wi03_b_40.spawn # Genie Jafar
+  - name: btl
+    type: areadatascript
+    method: areadatascript
+    source:
+    - name: ard/wi/wi03_btl.script #  -> AL05_MS203 (Genie Jafar)
 
 
 
