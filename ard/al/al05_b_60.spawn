@@ -45,10 +45,6 @@
     SpawnRange: 0
     Level: 0
     Medal: 0
-    
-    
-
-    
   - ObjectId: 721 # Barrier
     PositionX: 0
     PositionY: -22300
@@ -193,15 +189,6 @@
     SpawnRange: 0
     Level: 0
     Medal: 0
-
-
-
-
-
-
-
-
-
   - ObjectId: 2114 # Saix's Claymore
     PositionX: 0
     PositionY: -22750
