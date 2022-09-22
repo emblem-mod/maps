@@ -212,6 +212,79 @@ assets:
 
 
 
+- name: ard/al03.ard
+  multi:
+  - name: ard/us/al03.ard
+  method: binarc
+  source:
+  - name: map
+    type: areadatascript
+    method: areadatascript
+    source:
+    - name: ard/palace_map.script
+
+- name: ard/hb12.ard
+  multi:
+  - name: ard/us/hb12.ard
+  method: binarc
+  source:
+  - name: map
+    type: areadatascript
+    method: areadatascript
+    source:
+    - name: ard/manufactory_map.script
+
+- name: ard/he06.ard
+  multi:
+  - name: ard/us/he06.ard
+  method: binarc
+  source:
+  - name: map
+    type: areadatascript
+    method: areadatascript
+    source:
+    - name: ard/hades_map.script
+
+- name: ard/he09.ard
+  multi:
+  - name: ard/us/he09.ard
+  method: binarc
+  source:
+  - name: map
+    type: areadatascript
+    method: areadatascript
+    source:
+    - name: ard/underdrome_map.script
+
+- name: ard/tr02.ard
+  multi:
+  - name: ard/us/tr02.ard
+  method: binarc
+  source:
+  - name: map
+    type: areadatascript
+    method: areadatascript
+    source:
+    - name: ard/grid_map.script
+
+- name: ard/tt23.ard
+  multi:
+  - name: ard/us/tt23.ard
+  method: binarc
+  source:
+  - name: map
+    type: areadatascript
+    method: areadatascript
+    source:
+    - name: ard/pod_map.script
+
+
+
+
+
+
+
+
 
 - name: ard/eh21.ard
   multi:
