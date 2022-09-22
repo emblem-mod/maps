@@ -294,7 +294,7 @@
     Medal: 0
   - ObjectId: 2114 # Saix's Claymore
     PositionX: 1500
-    PositionY: -23000
+    PositionY: -22750
     PositionZ: 1500
     RotationX: 0
     RotationY: -2.3561944902000000
@@ -312,7 +312,7 @@
     Medal: 0
   - ObjectId: 2114 # Saix's Claymore
     PositionX: 2100
-    PositionY: -23000
+    PositionY: -22750
     PositionZ: 0
     RotationX: 0
     RotationY: 3.1415927410125732
@@ -330,7 +330,7 @@
     Medal: 0
   - ObjectId: 2114 # Saix's Claymore
     PositionX: 1500
-    PositionY: -23000
+    PositionY: -22750
     PositionZ: -1500
     RotationX: 0
     RotationY: 2.3561944902000000
