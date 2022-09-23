@@ -3,7 +3,7 @@ MapVisibility 0x00000111 0x0C000000
 Spawn "m_00"
 
 Program 0x7C
-MapVisibility 0x00000004 0x0C000000
+MapVisibility 0x00000002 0x08000000
 
 Program 0x7D
 MapVisibility 0x00000008 0x1C000000
