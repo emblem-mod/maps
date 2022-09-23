@@ -2,3 +2,8 @@ Program 0x7C
 Party DEFAULT
 Mission 0x4F "EH21_MS101"
 Spawn "b_60"
+
+Program 0x7D
+Party DEFAULT
+Mission 0x4F "EH21_MS101"
+Spawn "b_60"
