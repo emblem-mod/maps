@@ -1,4 +1,5 @@
 Program 0x00
-MapVisibility 0x00000005 0x40000000
+MapVisibility 0x00000008 0x40000000
+BarrierFlag 0x0 0x40000000
 Spawn "m_00"
 Spawn "m_10"
