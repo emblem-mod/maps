@@ -293,6 +293,11 @@ assets:
   - name: ard/us/hb27.ard
   method: binarc
   source:
+  - name: m_00
+    type: areadataspawn
+    method: spawnpoint
+    source:
+    - name: ard/m_00.spawn # Sora with Carpet
   - name: map
     type: areadatascript
     method: areadatascript
