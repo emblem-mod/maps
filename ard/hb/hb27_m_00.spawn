@@ -1,0 +1,11 @@
+- Type: 1
+  Flag: 0
+  Id: 0
+  Teleport:
+    Place: 
+    Level: 0
+    Medal: 0
+  EventActivators: []
+  WalkPath: []
+  ReturnParameters: []
+  Signals: []
