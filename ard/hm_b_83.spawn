@@ -119,7 +119,7 @@
     RotationY: -3.0605063438415527
     RotationZ: 0
     SpawnType: 2
-    SpawnArgument: 1
+    SpawnArgument: 0
     Serial: 102
     Argument1: 0
     Argument2: 0
@@ -137,7 +137,7 @@
     RotationY: 0
     RotationZ: 0
     SpawnType: 2
-    SpawnArgument: 1
+    SpawnArgument: 0
     Serial: 103
     Argument1: 0
     Argument2: 0
@@ -155,7 +155,7 @@
     RotationY: 0
     RotationZ: 0
     SpawnType: 2
-    SpawnArgument: 1
+    SpawnArgument: 0
     Serial: 104
     Argument1: 0
     Argument2: 0
@@ -173,7 +173,7 @@
     RotationY: 0
     RotationZ: 0
     SpawnType: 2
-    SpawnArgument: 1
+    SpawnArgument: 0
     Serial: 110
     Argument1: 0
     Argument2: 0
@@ -191,7 +191,7 @@
     RotationY: 0
     RotationZ: 0
     SpawnType: 2
-    SpawnArgument: 1
+    SpawnArgument: 0
     Serial: 120
     Argument1: 0
     Argument2: 0
@@ -199,7 +199,7 @@
     SpawnDelay: 0
     Command: 0
     SpawnRange: 0
-    Level: 2
+    Level: 1
     Medal: 0
   - ObjectId: 1114 # Strafer
     PositionX: -1200
@@ -209,7 +209,7 @@
     RotationY: 0
     RotationZ: 0
     SpawnType: 2
-    SpawnArgument: 1
+    SpawnArgument: 0
     Serial: 130
     Argument1: 0
     Argument2: 0
@@ -217,7 +217,7 @@
     SpawnDelay: 0
     Command: 0
     SpawnRange: 0
-    Level: 3
+    Level: 2
     Medal: 0
   - ObjectId: 1114 # Strafer
     PositionX: 1200
@@ -227,7 +227,7 @@
     RotationY: 0
     RotationZ: 0
     SpawnType: 2
-    SpawnArgument: 1
+    SpawnArgument: 0
     Serial: 140
     Argument1: 0
     Argument2: 0
@@ -235,7 +235,7 @@
     SpawnDelay: 0
     Command: 0
     SpawnRange: 0
-    Level: 4
+    Level: 2
     Medal: 0
   - ObjectId: 2408 # Reckless
     PositionX: 0
@@ -253,7 +253,7 @@
     SpawnDelay: 0
     Command: 0
     SpawnRange: 0
-    Level: 5
+    Level: 9
     Medal: 0
   EventActivators:
   - Shape: 2
