@@ -21,7 +21,7 @@
     Serial: 57
     Argument1: 1
     Argument2: 0
-    ReactionCommand: 980
+    ReactionCommand: 982
     SpawnDelay: 0
     Command: 0
     SpawnRange: 0
