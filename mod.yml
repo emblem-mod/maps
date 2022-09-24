@@ -315,6 +315,11 @@ assets:
   - name: ard/us/hb27.ard
   method: binarc
   source:
+  - name: m_00
+    type: areadataspawn
+    method: spawnpoint
+    source:
+    - name: ard/hb/hb27_m_00.spawn # Set Spawn Locations
   - name: m_55
     type: areadataspawn
     method: spawnpoint
