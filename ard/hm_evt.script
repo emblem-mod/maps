@@ -1,0 +1,6 @@
+Program 0x03
+Party DEFAULT
+Bgm 90 90
+AreaSettings 1 -1
+	SetProgressFlag 0x10BF
+	SetPartyMenu 0
