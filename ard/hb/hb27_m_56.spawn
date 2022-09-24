@@ -9,10 +9,10 @@
   Unk20: 0
   Unk24: 0
   Entities:
-  - ObjectId: 768
-    PositionX: -500
-    PositionY: 21300
-    PositionZ: 2420
+  - ObjectId: 768 # Warp Circle
+    PositionX: 0
+    PositionY: 15940
+    PositionZ: -1860
     RotationX: 0
     RotationY: 0
     RotationZ: 0
