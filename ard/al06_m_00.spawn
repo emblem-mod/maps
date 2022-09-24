@@ -10,9 +10,9 @@
   Unk24: 0
   Entities:
   - ObjectId: 566
-    PositionX: 199.99909973144531
-    PositionY: -0.00011198449647054076
-    PositionZ: 649.99871826171875
+    PositionX: 0
+    PositionY: 0
+    PositionZ: -2000
     RotationX: 0
     RotationY: -0.2617993950843811
     RotationZ: 0
@@ -79,9 +79,9 @@
   Unk24: 0
   Entities:
   - ObjectId: 566
-    PositionX: -250
-    PositionY: -1.4951999673940009E-06
-    PositionZ: 727
+    PositionX: 0
+    PositionY: 0
+    PositionZ: -2000
     RotationX: 0
     RotationY: 0
     RotationZ: 0
@@ -217,9 +217,9 @@
   Unk24: 0
   Entities:
   - ObjectId: 566
-    PositionX: -1791.697998046875
-    PositionY: -12.322230339050293
-    PositionZ: -397.86068725585938
+    PositionX: 0
+    PositionY: 0
+    PositionZ: -2000
     RotationX: 0
     RotationY: 2.268928050994873
     RotationZ: 0
