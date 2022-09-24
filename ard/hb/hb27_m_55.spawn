@@ -11,17 +11,17 @@
   Entities:
   - ObjectId: 768 # Warp Circle
     PositionX: 0
-    PositionY: 1220
+    PositionY: 1222
     PositionZ: -1865
     RotationX: 0
     RotationY: 0
     RotationZ: 0
     SpawnType: 0
-    SpawnArgument: 1
+    SpawnArgument: 0
     Serial: 56
     Argument1: 0
-    Argument2: 1
-    ReactionCommand: 981
+    Argument2: 0
+    ReactionCommand: 979
     SpawnDelay: 0
     Command: 0
     SpawnRange: 0
