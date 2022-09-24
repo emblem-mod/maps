@@ -11,7 +11,7 @@
   Entities:
   - ObjectId: 768 # Warp Circle
     PositionX: 5
-    PositionY: 15940
+    PositionY: 15942
     PositionZ: -1865
     RotationX: 0
     RotationY: 0
@@ -21,7 +21,7 @@
     Serial: 57
     Argument1: 1
     Argument2: 0
-    ReactionCommand: 982
+    ReactionCommand: 980
     SpawnDelay: 0
     Command: 0
     SpawnRange: 0
