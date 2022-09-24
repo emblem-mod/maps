@@ -7,5 +7,5 @@ AreaSettings 1 -1
 
 AreaSettings 7 -1
 	SetProgressFlag 0x10AC
-	SetJump Type 1 World HB Area 25 Entrance 23 LocalSet 0 FadeType 1
+	SetJump Type 1 World HB Area 27 Entrance 0 LocalSet 0 FadeType 1
 	SetPartyMenu 0
