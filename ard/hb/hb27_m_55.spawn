@@ -17,10 +17,10 @@
     RotationY: 0
     RotationZ: 0
     SpawnType: 0
-    SpawnArgument: 0
+    SpawnArgument: 1
     Serial: 56
     Argument1: 0
-    Argument2: 0
+    Argument2: 1
     ReactionCommand: 981
     SpawnDelay: 0
     Command: 0
