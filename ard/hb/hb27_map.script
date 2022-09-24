@@ -1,11 +1,42 @@
 Program 0x00
+Unk0e 3
 MapVisibility 0x00022787 0x00000000
 AreaSettings 10 -1
-	SetJump Type 1 World AL Area 13 Entrance 3 LocalSet 0 FadeType 1
+	SetJump Type 1 World HB Area 27 Entrance 3 LocalSet 0 FadeType 1
 	SetPartyMenu 0
 
 AreaSettings 11 -1
-	SetJump Type 1 World AL Area 13 Entrance 2 LocalSet 0 FadeType 1
+	SetJump Type 1 World HB Area 27 Entrance 2 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+  
+Spawn "m_00"
+Spawn "m_55"
+Spawn "m_56"
+
+Program 0x02
+Unk0e 2
+MapVisibility 0x00022787 0x00000000
+AreaSettings 10 -1
+	SetJump Type 1 World HB Area 27 Entrance 3 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+AreaSettings 11 -1
+	SetJump Type 1 World HB Area 27 Entrance 2 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+  
+Spawn "m_00"
+Spawn "m_55"
+Spawn "m_56"
+
+Program 0x03
+Unk0e 3
+MapVisibility 0x00022787 0x00000000
+AreaSettings 10 -1
+	SetJump Type 1 World HB Area 27 Entrance 3 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+AreaSettings 11 -1
+	SetJump Type 1 World HB Area 27 Entrance 2 LocalSet 0 FadeType 1
 	SetPartyMenu 0
   
 Spawn "m_00"
