@@ -75,7 +75,7 @@
   Unk20: 0
   Unk24: 0
   Entities:
-  - ObjectId: 16 # Devastator
+  - ObjectId: 2076 # (Large Enemy) Graveyard
     PositionX: 0
     PositionY: 0
     PositionZ: -700
@@ -93,7 +93,7 @@
     SpawnRange: 0
     Level: 0
     Medal: 0
-  - ObjectId: 121 # Magnum Loader
+  - ObjectId: 1775 # (Large Enemy) Graveyard (Halloween Town)
     PositionX: -1200
     PositionY: 0
     PositionZ: 100
@@ -111,7 +111,7 @@
     SpawnRange: 0
     Level: 0
     Medal: 0
-  - ObjectId: 121 # Magnum Loader
+  - ObjectId: 1828 # (Enemy) Aeroplane (Timeless River)
     PositionX: 1200
     PositionY: 0
     PositionZ: 100
@@ -165,7 +165,7 @@
     SpawnRange: 0
     Level: 0
     Medal: 0
-  - ObjectId: 1114 # Strafer
+  - ObjectId: 6 # (Enemy) Aeroplane
     PositionX: -1200
     PositionY: 0
     PositionZ: 100
@@ -183,7 +183,7 @@
     SpawnRange: 0
     Level: 1
     Medal: 0
-  - ObjectId: 1114 # Strafer
+  - ObjectId: 121 # Magnum Loader
     PositionX: 1200
     PositionY: 0
     PositionZ: 100
@@ -201,7 +201,7 @@
     SpawnRange: 0
     Level: 1
     Medal: 0
-  - ObjectId: 1114 # Strafer
+  - ObjectId: 1774 # (Large Enemy) Graveyard
     PositionX: -1200
     PositionY: 0
     PositionZ: -1500
@@ -219,7 +219,7 @@
     SpawnRange: 0
     Level: 2
     Medal: 0
-  - ObjectId: 1114 # Strafer
+  - ObjectId: 121 # Magnum Loader
     PositionX: 1200
     PositionY: 0
     PositionZ: -1500
@@ -237,7 +237,7 @@
     SpawnRange: 0
     Level: 2
     Medal: 0
-  - ObjectId: 2408 # Reckless
+  - ObjectId: 121 # Magnum Loader
     PositionX: 0
     PositionY: 0
     PositionZ: -700
