@@ -4,6 +4,11 @@ description:
 logo: icon.png
 assets:
 
+- name: map/jp/bb00.map
+  method: copy
+  source:
+  - name: bb00.map # NEW Entrance Hall
+
 # Bamboo Grove
 - name: ard/mu00.ard
   multi:
