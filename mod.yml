@@ -349,13 +349,13 @@ assets:
 
 
 
-- name: ard/eh21.ard
-  multi:
-  - name: ard/us/eh21.ard
-  method: binarc
-  source:
-  - name: b_40
-    type: areadataspawn
-    method: spawnpoint
-    source:
-    - name: ard/tr04_b_40.spawn # Hostile Program
+#- name: ard/eh21.ard
+#  multi:
+#  - name: ard/us/eh21.ard
+#  method: binarc
+#  source:
+#  - name: b_40
+#    type: areadataspawn
+#    method: spawnpoint
+#    source:
+#    - name: ard/tr04_b_40.spawn # Hostile Program
