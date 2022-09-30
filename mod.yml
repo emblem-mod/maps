@@ -103,21 +103,21 @@ assets:
     - name: ard/he/he07_btl.script # HE07_MS103 -> HB34_FM_ZEX (Zexion)
 
 # Xemnas II AL Above Agrabah
-- name: ard/al05.ard
-  multi:
-  - name: ard/us/al05.ard
-  method: binarc
-  source:
-  - name: b_60
-    type: areadataspawn
-    method: spawnpoint
-    source:
-    - name: ard/al/al05_b_60.spawn # Xemnas II
-  - name: btl
-    type: areadatascript
-    method: areadatascript
-    source:
-    - name: ard/al/al05_btl.script # AL05_MS203 -> EH20_MS113 (Xemnas II)
+# - name: ard/al05.ard
+#   multi:
+#  - name: ard/us/al05.ard
+#  method: binarc
+#  source:
+#  - name: b_60
+#    type: areadataspawn
+#    method: spawnpoint
+#    source:
+#    - name: ard/al/al05_b_60.spawn # Xemnas II
+#  - name: btl
+#    type: areadatascript
+#    method: areadatascript
+#    source:
+#    - name: ard/al/al05_btl.script # AL05_MS203 -> EH20_MS113 (Xemnas II)
 
     
 
@@ -217,16 +217,16 @@ assets:
 
 
 
-- name: ard/al03.ard
-  multi:
-  - name: ard/us/al03.ard
-  method: binarc
-  source:
-  - name: map
-    type: areadatascript
-    method: areadatascript
-    source:
-    - name: ard/palace_map.script
+#- name: ard/al03.ard
+#  multi:
+#  - name: ard/us/al03.ard
+#  method: binarc
+#  source:
+#  - name: map
+#    type: areadatascript
+#    method: areadatascript
+#    source:
+#    - name: ard/palace_map.script
 
 - name: ard/he06.ard
   multi:
