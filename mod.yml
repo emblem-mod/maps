@@ -7,7 +7,7 @@ assets:
 - name: map/jp/eh21.map
   method: copy
   source:
-  - name: eh21.map # Data Arena
+  - name: where_data_gathers.map # Where Data Gathers
 
 # Bamboo Grove
 - name: ard/mu00.ard
