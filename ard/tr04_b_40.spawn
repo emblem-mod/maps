@@ -11,7 +11,7 @@
   Entities:
   - ObjectId: 566
     PositionX: -100
-    PositionY: -0
+    PositionY: -200
     PositionZ: 1800
     RotationX: 0
     RotationY: 0
@@ -29,7 +29,7 @@
     Medal: 0
   - ObjectId: 567
     PositionX: 100
-    PositionY: 0
+    PositionY: -200
     PositionZ: 1800
     RotationX: 0
     RotationY: 0
@@ -47,7 +47,7 @@
     Medal: 0
   - ObjectId: 2079
     PositionX: 150
-    PositionY: 0
+    PositionY: -200
     PositionZ: 1400
     RotationX: 0
     RotationY: 3.1415927410125732
@@ -65,7 +65,7 @@
     Medal: 0
   - ObjectId: 2079
     PositionX: 0
-    PositionY: 0
+    PositionY: -200
     PositionZ: 1200
     RotationX: 0
     RotationY: 3.1415927410125732
@@ -98,7 +98,7 @@
   Entities:
   - ObjectId: 2258
     PositionX: -450
-    PositionY: -0
+    PositionY: -200
     PositionZ: 1800
     RotationX: 0
     RotationY: 0
