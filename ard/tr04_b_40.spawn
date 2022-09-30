@@ -1,6 +1,6 @@
 - Type: 1
   Flag: 0
-  Id: 84
+  Id: 47
   Teleport:
     Place: 0
     Door: 0
@@ -10,15 +10,15 @@
   Unk24: 0
   Entities:
   - ObjectId: 566
-    PositionX: 0
-    PositionY: 0
-    PositionZ: -500
+    PositionX: -100
+    PositionY: -0
+    PositionZ: 1800
     RotationX: 0
     RotationY: 0
     RotationZ: 0
     SpawnType: 0
     SpawnArgument: 0
-    Serial: 14
+    Serial: 4
     Argument1: 0
     Argument2: 0
     ReactionCommand: 0
@@ -27,16 +27,16 @@
     SpawnRange: 0
     Level: 0
     Medal: 0
-  - ObjectId: 1208
-    PositionX: 0
+  - ObjectId: 567
+    PositionX: 100
     PositionY: 0
-    PositionZ: 1000
+    PositionZ: 1800
     RotationX: 0
     RotationY: 0
     RotationZ: 0
-    SpawnType: 3
+    SpawnType: 0
     SpawnArgument: 0
-    Serial: 17
+    Serial: 5
     Argument1: 0
     Argument2: 0
     ReactionCommand: 0
@@ -45,16 +45,67 @@
     SpawnRange: 0
     Level: 0
     Medal: 0
-  - ObjectId: 1867
+  - ObjectId: 2079
+    PositionX: 150
+    PositionY: 0
+    PositionZ: 1400
+    RotationX: 0
+    RotationY: 3.1415927410125732
+    RotationZ: 0
+    SpawnType: 0
+    SpawnArgument: 0
+    Serial: 7
+    Argument1: 0
+    Argument2: 0
+    ReactionCommand: 0
+    SpawnDelay: 0
+    Command: 0
+    SpawnRange: 0
+    Level: 0
+    Medal: 0
+  - ObjectId: 2079
     PositionX: 0
     PositionY: 0
-    PositionZ: 0
+    PositionZ: 1200
+    RotationX: 0
+    RotationY: 3.1415927410125732
+    RotationZ: 0
+    SpawnType: 0
+    SpawnArgument: 0
+    Serial: 8
+    Argument1: 1
+    Argument2: 0
+    ReactionCommand: 0
+    SpawnDelay: 0
+    Command: 0
+    SpawnRange: 0
+    Level: 0
+    Medal: 0
+  EventActivators: []
+  WalkPath: []
+  ReturnParameters: []
+  Signals: []
+- Type: 5
+  Flag: 1
+  Id: 58
+  Teleport:
+    Place: 0
+    Door: 0
+    World: 0
+    Unknown: 0
+  Unk20: 0
+  Unk24: 0
+  Entities:
+  - ObjectId: 2258
+    PositionX: -450
+    PositionY: -0
+    PositionZ: 1800
     RotationX: 0
     RotationY: 0
     RotationZ: 0
     SpawnType: 0
     SpawnArgument: 0
-    Serial: 123
+    Serial: 6
     Argument1: 0
     Argument2: 0
     ReactionCommand: 0
