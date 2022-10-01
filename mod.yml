@@ -14,10 +14,10 @@ assets:
   source:
   - name: eh20.map # 
 
-- name: map/jp/es00.map
+- name: map/jp/hb34.map
   method: copy
   source:
-  - name: es00.map # Station of Prophecies
+  - name: hb34.map # Station of Prophecies
 
 
 
@@ -37,6 +37,21 @@ assets:
     source:
     - name: ard/wdg_xemnas_evt.script
     
+- name: ard/hb34.ard
+  multi:
+  - name: ard/us/hb34.ard
+  method: binarc
+  source:
+  - name: b_80
+    type: areadataspawn
+    method: spawnpoint
+    source:
+    - name: ard/wdg_xemnas_b_40.spawn # Xemnas II
+  - name: evt
+    type: areadatascript
+    method: areadatascript
+    source:
+    - name: ard/wdg_xemnas_evt.script
     
 
 
