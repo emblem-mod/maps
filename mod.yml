@@ -9,6 +9,13 @@ assets:
   source:
   - name: where_data_gathers.map # Where Data Gathers
 
+
+
+- name: map/jp/eh20.map
+  method: copy
+  source:
+  - name: eh20.map # Where Data Gathers
+  
 - name: map/jp/hb34.map
   method: copy
   source:
