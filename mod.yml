@@ -4,7 +4,7 @@ description:
 logo: icon.png
 assets:
 
-- name: map/jp/eh20.map
+- name: map/jp/eh21.map
   method: copy
   source:
   - name: where_data_gathers.map # Where Data Gathers
