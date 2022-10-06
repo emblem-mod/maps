@@ -14,7 +14,7 @@ assets:
 - name: map/jp/eh20.map
   method: copy
   source:
-  - name: eh20.map # Where Data Gathers
+  - name: test.map # Test
   
 - name: map/jp/hb34.map
   method: copy
