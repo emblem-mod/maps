@@ -28,6 +28,11 @@ assets:
   - name: ard/us/eh21.ard
   method: binarc
   source:
+  - name: m_00
+    type: areadataspawn
+    method: spawnpoint
+    source:
+    - name: ard/wdg_m_00.spawn # Sora Only
   - name: b_40
     type: areadataspawn
     method: spawnpoint
@@ -38,6 +43,11 @@ assets:
     method: areadatascript
     source:
     - name: ard/wdg_xemnas_evt.script
+  - name: b_80
+    type: areadataspawn
+    method: spawnpoint
+    source:
+    - name: ard/wdg_b_80.spawn # Xigbar
     
 - name: ard/hb34.ard
   multi:
