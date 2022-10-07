@@ -19,7 +19,7 @@ assets:
 - name: map/jp/hb34.map
   method: copy
   source:
-  - name: hb34.map # Station of Prophecies
+  - name: old.map # Station of Prophecies
 
 
 
