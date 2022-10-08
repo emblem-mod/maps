@@ -7,12 +7,12 @@ assets:
 - name: map/jp/eh21.map
   method: copy
   source:
-  - name: test.map # Where Data Gathers
+  - name: eh19.map # Where Data Gathers
   
 - name: map/jp/hb34.map
   method: copy
   source:
-  - name: station.map # Station of Prophecies
+  - name: eh26.map # Station of Prophecies
 
 - name: ard/eh21.ard
   multi:
