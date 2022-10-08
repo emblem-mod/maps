@@ -4,24 +4,15 @@ description:
 logo: icon.png
 assets:
 
-- name: map/jp/eh20.map
-  method: copy
-  source:
-  - name: where_data_gathers.map # Where Data Gathers
-
-
-
 - name: map/jp/eh21.map
   method: copy
   source:
-  - name: test.map # Test
+  - name: test.map # Where Data Gathers
   
 - name: map/jp/hb34.map
   method: copy
   source:
-  - name: old.map # Station of Prophecies
-
-
+  - name: station.map # Station of Prophecies
 
 - name: ard/eh21.ard
   multi:
@@ -48,23 +39,40 @@ assets:
     method: spawnpoint
     source:
     - name: ard/wdg_b_80.spawn # Xigbar
-    
+
 - name: ard/hb34.ard
   multi:
   - name: ard/us/hb34.ard
   method: binarc
   source:
+  - name: m_00
+    type: areadataspawn
+    method: spawnpoint
+    source:
+    - name: ard/wdg_m_00.spawn # Sora Only
   - name: b_80
     type: areadataspawn
     method: spawnpoint
     source:
-    - name: ard/wdg_xemnas_b_40.spawn # Xemnas II
+    - name: ard/sop_b_80.spawn # Terra
   - name: evt
     type: areadatascript
     method: areadatascript
     source:
-    - name: ard/wdg_xemnas_evt.script
-    
+    - name: ard/sop_evt.script
+  - name: b_81
+    type: areadataspawn
+    method: spawnpoint
+    source:
+    - name: ard/wdg_b_80.spawn # Xigbar
+
+
+
+
+
+
+
+
 
 
 
