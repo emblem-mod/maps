@@ -12,7 +12,7 @@
   - ObjectId: 357
     PositionX: 0
     PositionY: -700
-    PositionZ: -500
+    PositionZ: -200
     RotationX: 0
     RotationY: -3.1415927410125732
     RotationZ: 0
@@ -28,51 +28,15 @@
     Level: 0
     Medal: 0
   - ObjectId: 566
-    PositionX: -4.3711388570955023E-06
+    PositionX: 0
     PositionY: -1350
-    PositionZ: -300
+    PositionZ: 0
     RotationX: 0
     RotationY: -2.552544116973877
     RotationZ: 0
     SpawnType: 0
     SpawnArgument: 0
     Serial: 55
-    Argument1: 0
-    Argument2: 0
-    ReactionCommand: 0
-    SpawnDelay: 0
-    Command: 0
-    SpawnRange: 0
-    Level: 0
-    Medal: 0
-  - ObjectId: 567
-    PositionX: -50
-    PositionY: -1350
-    PositionZ: -400
-    RotationX: 0
-    RotationY: -0.78539818525314331
-    RotationZ: 0
-    SpawnType: 0
-    SpawnArgument: 0
-    Serial: 56
-    Argument1: 0
-    Argument2: 0
-    ReactionCommand: 0
-    SpawnDelay: 0
-    Command: 0
-    SpawnRange: 0
-    Level: 0
-    Medal: 0
-  - ObjectId: 568
-    PositionX: 50
-    PositionY: -1350
-    PositionZ: -400
-    RotationX: 0
-    RotationY: 0.78539818525314331
-    RotationZ: 0
-    SpawnType: 0
-    SpawnArgument: 0
-    Serial: 57
     Argument1: 0
     Argument2: 0
     ReactionCommand: 0
@@ -97,9 +61,9 @@
   Unk24: 0
   Entities:
   - ObjectId: 1111
-    PositionX: -5.8255000114440918
-    PositionY: -0
-    PositionZ: 7.1075968742370605
+    PositionX: 0
+    PositionY: 0
+    PositionZ: 0
     RotationX: 0
     RotationY: 0
     RotationZ: 0
@@ -115,9 +79,9 @@
     Level: 0
     Medal: 0
   - ObjectId: 1111
-    PositionX: 516.651611328125
-    PositionY: -0
-    PositionZ: -398.1505126953125
+    PositionX: 500
+    PositionY: 0
+    PositionZ: -400
     RotationX: 0
     RotationY: 0
     RotationZ: 0
@@ -133,9 +97,9 @@
     Level: 0
     Medal: 0
   - ObjectId: 1111
-    PositionX: -485.7034912109375
-    PositionY: -0
-    PositionZ: 285.4298095703125
+    PositionX: -500
+    PositionY: 0
+    PositionZ: 300
     RotationX: 0
     RotationY: 0
     RotationZ: 0
@@ -154,8 +118,8 @@
   - Shape: 0
     Option: 0
     PositionX: 0
-    PositionY: -490
-    PositionZ: -0
+    PositionY: -500
+    PositionZ: 0
     ScaleX: 3250
     ScaleY: 500
     ScaleZ: 2150
@@ -182,8 +146,8 @@
   Entities:
   - ObjectId: 1111
     PositionX: 0
-    PositionY: -0
-    PositionZ: -0
+    PositionY: 0
+    PositionZ: 0
     RotationX: 0
     RotationY: 0
     RotationZ: 0
@@ -202,8 +166,8 @@
   - Shape: 0
     Option: 0
     PositionX: 0
-    PositionY: -490
-    PositionZ: -0
+    PositionY: -500
+    PositionZ: 0
     ScaleX: 3250
     ScaleY: 500
     ScaleZ: 2150
