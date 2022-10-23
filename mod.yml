@@ -14,6 +14,12 @@ assets:
   source:
   - name: station_of_prophecies.map # Station of Prophecies
 
+- name: map/jp/eh20.map
+  method: copy
+  source:
+  - name: eh20.map # Surface Flag Test
+
+
 # Where Data Gathers
 - name: ard/eh21.ard
   multi:
