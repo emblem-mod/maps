@@ -17,7 +17,7 @@ assets:
 - name: map/jp/eh20.map
   method: copy
   source:
-  - name: eh20.map # Surface Flag Test
+  - name: surface_flags.map # Surface Flag Test
 
 
 # Where Data Gathers
