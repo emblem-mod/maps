@@ -74,14 +74,22 @@ assets:
     source:
     - name: ard/sop_evt.script
 
-
-
-
-
-
-
-
-
+# Surface Flags
+- name: ard/eh20.ard
+  multi:
+  - name: ard/us/eh20.ard
+  method: binarc
+  source:
+  - name: m_00
+    type: areadataspawn
+    method: spawnpoint
+    source:
+    - name: ard/surface_flag_m_00.spawn # Sora and Dusks
+  - name: b_40
+    type: areadataspawn
+    method: spawnpoint
+    source:
+    - name: ard/wdg_b_80.spawn # Xigbar
 
 
 
