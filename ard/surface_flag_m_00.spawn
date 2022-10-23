@@ -18,7 +18,7 @@
     RotationZ: 0
     SpawnType: 0
     SpawnArgument: 0
-    Serial: 10
+    Serial: 100
     Argument1: 0
     Argument2: 0
     ReactionCommand: 0
@@ -27,7 +27,7 @@
     SpawnRange: 0
     Level: 0
     Medal: 0
-  - ObjectId: 318
+  - ObjectId: 301
     PositionX: -200
     PositionY: 0
     PositionZ: 500
@@ -36,7 +36,7 @@
     RotationZ: 0
     SpawnType: 3
     SpawnArgument: 0
-    Serial: 20
+    Serial: 101
     Argument1: 0
     Argument2: 0
     ReactionCommand: 0
@@ -45,7 +45,7 @@
     SpawnRange: 0
     Level: 0
     Medal: 0
-  - ObjectId: 77
+  - ObjectId: 122
     PositionX: 200
     PositionY: 0
     PositionZ: 500
@@ -54,7 +54,25 @@
     RotationZ: 0
     SpawnType: 3
     SpawnArgument: 0
-    Serial: 21
+    Serial: 102
+    Argument1: 0
+    Argument2: 0
+    ReactionCommand: 0
+    SpawnDelay: 0
+    Command: 0
+    SpawnRange: 0
+    Level: 0
+    Medal: 0
+  - ObjectId: 2404
+    PositionX: 200
+    PositionY: 0
+    PositionZ: 500
+    RotationX: 0
+    RotationY: 0
+    RotationZ: 0
+    SpawnType: 3
+    SpawnArgument: 0
+    Serial: 103
     Argument1: 0
     Argument2: 0
     ReactionCommand: 0
