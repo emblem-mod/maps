@@ -27,7 +27,7 @@
     SpawnRange: 0
     Level: 0
     Medal: 0
-  - ObjectId: 311
+  - ObjectId: 318
     PositionX: -200
     PositionY: 0
     PositionZ: 500
@@ -45,7 +45,7 @@
     SpawnRange: 0
     Level: 0
     Medal: 0
-  - ObjectId: 11
+  - ObjectId: 77
     PositionX: 200
     PositionY: 0
     PositionZ: 500
