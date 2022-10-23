@@ -96,7 +96,7 @@
   Unk20: 0
   Unk24: 0
   Entities:
-  - ObjectId: 2258
+  - ObjectId: 2258 # Dying Sora
     PositionX: -450
     PositionY: -200
     PositionZ: 1800
