@@ -266,16 +266,16 @@ assets:
     - name: ard/lk/lk15_btl.script # HB04_MS403 -> EH23_MS112 (Armored Xemnas II)
 
 # Groundshaker SP Game Grid
-- name: ard/tr02.ard
-  multi:
-  - name: ard/us/tr02.ard
-  method: binarc
-  source:
-  - name: b_60
-    type: areadataspawn
-    method: spawnpoint
-    source:
-    - name: ard/tr/groundshaker_b_60.spawn # Groundshaker
+#- name: ard/tr02.ard
+#  multi:
+#  - name: ard/us/tr02.ard
+#  method: binarc
+#  source:
+#  - name: b_60
+#    type: areadataspawn
+#    method: spawnpoint
+#    source:
+#    - name: ard/tr/groundshaker_b_60.spawn # Groundshaker
 
 - name: obj/B_LK120.mdlx
   method: copy
