@@ -19,7 +19,6 @@ assets:
   source:
   - name: surface_flags.map # Surface Flag Test
 
-
 # Where Data Gathers
 - name: ard/eh21.ard
   multi:
@@ -30,22 +29,22 @@ assets:
     type: areadataspawn
     method: spawnpoint
     source:
-    - name: ard/wdg_m_00.spawn # Sora Only
+    - name: ard/maps_m_00.spawn # Sora Only
   - name: b_40
     type: areadataspawn
     method: spawnpoint
     source:
-    - name: ard/wdg_xemnas_b_40.spawn # Xemnas II
+    - name: ard/maps_xemnas.spawn # Xemnas II
   - name: b_80
     type: areadataspawn
     method: spawnpoint
     source:
-    - name: ard/wdg_b_80.spawn # Xigbar
+    - name: ard/maps_roxas.spawn # Roxas
   - name: evt
     type: areadatascript
     method: areadatascript
     source:
-    - name: ard/wdg_xemnas_evt.script    
+    - name: ard/wdg_evt.script    
 
 # Station of Prophecies
 - name: ard/eh19.ard
@@ -57,17 +56,17 @@ assets:
     type: areadataspawn
     method: spawnpoint
     source:
-    - name: ard/wdg_m_00.spawn # Sora Only
+    - name: ard/maps_m_00.spawn # Sora Only
   - name: b_40
     type: areadataspawn
     method: spawnpoint
     source:
-    - name: ard/eh19_b_40.spawn # Xemnas Something
+    - name: ard/maps_terra.spawn # Terra
   - name: b_80
     type: areadataspawn
     method: spawnpoint
     source:
-    - name: ard/sop_b_80.spawn # Terra
+    - name: ard/maps_storm_rider.spawn # Storm Rider
   - name: evt
     type: areadatascript
     method: areadatascript
@@ -84,12 +83,81 @@ assets:
     type: areadataspawn
     method: spawnpoint
     source:
-    - name: ard/surface_flag_m_00.spawn # Sora and Dusks
+    - name: ard/maps_m_00.spawn # Sora Only
   - name: b_40
     type: areadataspawn
     method: spawnpoint
     source:
-    - name: ard/wdg_b_80.spawn # Xigbar
+    - name: ard/maps_xigbar.spawn # Xigbar
+
+# Heartless Manufactory
+- name: ard/hb12.ard
+  multi:
+  - name: ard/us/hb12.ard
+  method: binarc
+  source:
+  - name: b_83
+    type: areadataspawn
+    method: spawnpoint
+    source:
+    - name: ard/hb/hb12_b_83.spawn
+  - name: btl
+    type: areadatascript
+    method: areadatascript
+    source:
+    - name: ard/hb/hb12_btl.script
+  - name: evt
+    type: areadatascript
+    method: areadatascript
+    source:
+    - name: ard/hb/hb12_evt.script
+  - name: map
+    type: areadatascript
+    method: areadatascript
+    source:
+    - name: ard/hb/hb12_map.script # Active Heartless Manufactory Machinery
+    
+# Underground Laboratory
+- name: ard/hb27.ard
+  multi:
+  - name: ard/us/hb27.ard
+  method: binarc
+  source:
+  - name: m_00
+    type: areadataspawn
+    method: spawnpoint
+    source:
+    - name: ard/hb/hb27_m_00.spawn # Set Spawn Locations
+  - name: m_55
+    type: areadataspawn
+    method: spawnpoint
+    source:
+    - name: ard/hb/hb27_m_55.spawn # Warp Circle Top
+  - name: m_56
+    type: areadataspawn
+    method: spawnpoint
+    source:
+    - name: ard/hb/hb27_m_56.spawn # Warp Circle Bottom
+  - name: evt
+    type: areadatascript
+    method: areadatascript
+    source:
+    - name: ard/hb/hb27_evt.script
+  - name: map
+    type: areadatascript
+    method: areadatascript
+    source:
+    - name: ard/hb/hb27_map.script # Underground Laboratory without Doors and with Glowing Chamber
+
+
+
+
+
+##################################################################################################
+##################################################################################################
+##################################################################################################
+
+
 
 
 
@@ -333,60 +401,3 @@ assets:
     method: areadatascript
     source:
     - name: ard/pod_map.script
-
-- name: ard/hb12.ard
-  multi:
-  - name: ard/us/hb12.ard
-  method: binarc
-  source:
-  - name: b_83
-    type: areadataspawn
-    method: spawnpoint
-    source:
-    - name: ard/hb/hb12_b_83.spawn
-  - name: btl
-    type: areadatascript
-    method: areadatascript
-    source:
-    - name: ard/hb/hb12_btl.script
-  - name: evt
-    type: areadatascript
-    method: areadatascript
-    source:
-    - name: ard/hb/hb12_evt.script
-  - name: map
-    type: areadatascript
-    method: areadatascript
-    source:
-    - name: ard/hb/hb12_map.script # Active Heartless Manufactory Machinery
-    
-- name: ard/hb27.ard
-  multi:
-  - name: ard/us/hb27.ard
-  method: binarc
-  source:
-  - name: m_00
-    type: areadataspawn
-    method: spawnpoint
-    source:
-    - name: ard/hb/hb27_m_00.spawn # Set Spawn Locations
-  - name: m_55
-    type: areadataspawn
-    method: spawnpoint
-    source:
-    - name: ard/hb/hb27_m_55.spawn # Warp Circle Top
-  - name: m_56
-    type: areadataspawn
-    method: spawnpoint
-    source:
-    - name: ard/hb/hb27_m_56.spawn # Warp Circle Bottom
-  - name: evt
-    type: areadatascript
-    method: areadatascript
-    source:
-    - name: ard/hb/hb27_evt.script
-  - name: map
-    type: areadatascript
-    method: areadatascript
-    source:
-    - name: ard/hb/hb27_map.script # Underground Laboratory without Doors and with Glowing Chamber
