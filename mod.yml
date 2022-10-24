@@ -19,6 +19,11 @@ assets:
   source:
   - name: surface_flags.map # Surface Flag Test
 
+- name: map/jp/dc07.map
+  method: copy
+  source:
+  - name: crypt.map # Crypt
+
 # Where Data Gathers
 - name: ard/eh21.ard
   multi:
