@@ -24,6 +24,11 @@ assets:
   source:
   - name: crypt.map # Crypt
 
+- name: map/jp/eh24.map
+  method: copy
+  source:
+  - name: shinjuku_tower.map # Shinjuku Clocktower
+
 # Where Data Gathers
 - name: ard/eh21.ard
   multi:
