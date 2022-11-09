@@ -29,6 +29,27 @@ assets:
   source:
   - name: shinjuku_tower.map # Shinjuku Clocktower
 
+- name: ard/hb33.ard
+  method: binarc
+  source:
+  - name: m_00
+    type: areadataspawn
+    method: spawnpoint
+    source:
+    - name: m_00.spawn # Hitable Wagon, Skateboard, Save Point
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Where Data Gathers
 - name: ard/eh21.ard
   multi:
