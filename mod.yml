@@ -36,7 +36,7 @@ assets:
     type: areadataspawn
     method: spawnpoint
     source:
-    - name: m_00.spawn # Hitable Wagon, Skateboard, Save Point
+    - name: keyblade_test.spawn # Hitable Wagon, Skateboard, Save Point
 
 
 
