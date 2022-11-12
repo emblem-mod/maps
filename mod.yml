@@ -27,7 +27,13 @@ assets:
 - name: map/jp/eh24.map
   method: copy
   source:
-  - name: shinjuku_tower.map # Shinjuku Clocktower
+  - name: shinjuku_tower_ps2.map # Shinjuku Clocktower PS2
+
+- name: map/jp/eh25.map
+  method: copy
+  source:
+  - name: shinjuku_tower.map # Shinjuku Clocktower PC
+
 
 - name: ard/hb33.ard
   method: binarc
