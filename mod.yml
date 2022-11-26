@@ -34,6 +34,10 @@ assets:
   source:
   - name: shinjuku_tower.map # Shinjuku Clocktower PC
 
+- name: map/jp/eh17.map
+  method: copy
+  source:
+  - name: eh17.map # Ruin and Creation's Passage but with Platforming
 
 - name: ard/hb33.ard
   method: binarc
