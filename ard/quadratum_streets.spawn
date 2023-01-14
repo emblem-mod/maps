@@ -11,7 +11,7 @@
   Entities:
   - ObjectId: 566 # Sora
     PositionX: -3500
-    PositionY: 21500
+    PositionY: 22000
     PositionZ: -500
     RotationX: 0
     RotationY: -1.57
