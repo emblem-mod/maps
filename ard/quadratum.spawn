@@ -14,7 +14,7 @@
     PositionY: -14500
     PositionZ: 1300
     RotationX: 0
-    RotationY: 0
+    RotationY: 3.141
     RotationZ: 0
     SpawnType: 0
     SpawnArgument: 0
