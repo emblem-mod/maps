@@ -19,15 +19,15 @@ assets:
   source:
   - name: surface_flags.map # Surface Flag Test
 
-- name: map/jp/dc07.map
-  method: copy
-  source:
-  - name: crypt.map # Crypt
-
 - name: map/jp/eh24.map
   method: copy
   source:
   - name: shinjuku_tower.map # Quadratum Tower
+
+- name: map/jp/eh25.map
+  method: copy
+  source:
+  - name: shinjuku_tower.map # Quadratum Streets
 
 - name: map/jp/eh17.map
   method: copy
@@ -44,7 +44,6 @@ assets:
     method: areadatascript
     source:
     - name: eh17_map.script # Remove Glass Platforms
-
 
 - name: ard/hb33.ard
   method: binarc
@@ -132,6 +131,18 @@ assets:
     method: spawnpoint
     source:
     - name: ard/quadratum.spawn
+
+# Quadratum Tower
+- name: ard/eh25.ard
+  multi:
+  - name: ard/us/eh25.ard
+  method: binarc
+  source:
+  - name: m_00
+    type: areadataspawn
+    method: spawnpoint
+    source:
+    - name: ard/quadratum_streets.spawn
 
 # Surface Flags
 - name: ard/eh20.ard
