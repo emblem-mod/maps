@@ -27,7 +27,7 @@ assets:
 - name: map/jp/eh25.map
   method: copy
   source:
-  - name: shinjuku_tower.map # Quadratum Streets
+  - name: shinjuku_streets.map # Quadratum Streets
 
 - name: map/jp/eh17.map
   method: copy
