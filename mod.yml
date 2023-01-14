@@ -14,7 +14,7 @@ assets:
   source:
   - name: station_of_prophecies.map # Station of Prophecies
 
-- name: map/jp/eh20.map
+- name: map/jp/eh27.map
   method: copy
   source:
   - name: surface_flags.map # Surface Flag Test
@@ -145,9 +145,9 @@ assets:
     - name: ard/quadratum_streets.spawn
 
 # Surface Flags
-- name: ard/eh20.ard
+- name: ard/eh27.ard
   multi:
-  - name: ard/us/eh20.ard
+  - name: ard/us/eh27.ard
   method: binarc
   source:
   - name: m_00
